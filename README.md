@@ -21,7 +21,9 @@ The aim of this project is to aggregate the data and showcase trends in school p
 The first major piece of our code is to import required dependencies: <br /> 
 ```import pandas as pd``` <br /> 
 ```import os``` <br /> 
-Now we can start our analysis in order to complete our task.
+Now we can start our analysis in order to complete our task. <br /> 
+
+To check the full code please go to the following link: https://github.com/MireyNM/School_District_Analysis-/blob/main/Student_Data_Challenge_Starter_Code/Unsolved/Student_Data_Challenge_Starter_Code.ipynb
 
 1.  **Collect the student data into a DataFrame.** <br /> 
 To collect the student data, we need to import it into a structure that Python and Pandas can work on. Therefore, we have created a file path, to the external file ```new_full_student_data.csv``` saved in the "Resources" folder. And we used ```pd.read_csv``` to be able to read the file. <br />
