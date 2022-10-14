@@ -1,5 +1,4 @@
 # School_District_Analysis-
-Aggregate data and showcase trends in school performance.
 
 ## Project Overview 
 In this project, we are going to assist Maria, a chief Data Scientist for a city school district, to complete the school district analysis. To do that we need to do the following tasks: 
